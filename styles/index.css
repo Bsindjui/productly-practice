@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-button {
+    margin-left: 15px;
+    color: #2F281E;
+    padding: 8px 12px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.sign-up {
+    background-color: #FF9900;
+}
